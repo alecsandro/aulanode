@@ -1,0 +1,13 @@
+body {
+  background-color: whitesmoke;
+  font-family: Arial, sans-serif; }
+
+.main {
+  background-color: red; }
+
+.main h1 {
+  font-size: 120px; }
+
+.main .main-content {
+  display: flex;
+  justify-content: flex-end; }
